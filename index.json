@@ -1,0 +1,11 @@
+{
+  "org": "nipy",
+  "repo": "nilabels",
+  "versions": [
+    {
+      "commit": "4a61cd95e6bfb3644a3724461502d7cf69f5615d",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:38:10.260402+00:00"
+    }
+  ]
+}
